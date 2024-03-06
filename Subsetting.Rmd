@@ -560,7 +560,7 @@ grades <- c(1, 2, 2, 3, 1)
 info <- data.frame(
   grade = 3:1,
   desc = c("Excellent", "Good", "Poor"),
-  fail = c(F, F, T)
+  fail = c(FALSE, FALSE, TRUE)
 )
 ```
 
