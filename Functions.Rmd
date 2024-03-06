@@ -88,7 +88,7 @@ To understand functions in R you need to internalise two important ideas:
 
 * Functions can be broken down into three components: arguments, body, and environment.
 
-There are exceptions to every rule, and in this case, there is a small selection of "primitive" base functions that are implemented purely in C.
+There are exceptions to every rule, and in this case, there is a small selection of "primitive" base functions that are implemented purely in C. As a result, they can not be broken down into components.
 
 * Functions are objects, just as vectors are objects.
 
